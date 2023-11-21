@@ -1,4 +1,4 @@
-import "./styles/planet.css";
+import "./styles/Planet.css";
 
 const planets = ({ planet }) => {
   return <div className={`planet ${planet}`}></div>;
